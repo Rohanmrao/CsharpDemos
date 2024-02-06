@@ -1,0 +1,5 @@
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Release/net8.0/publish/interface.demo
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Release/net8.0/publish/interface.demo.dll
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Release/net8.0/publish/interface.demo.deps.json
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Release/net8.0/publish/interface.demo.runtimeconfig.json
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Release/net8.0/publish/interface.demo.pdb
