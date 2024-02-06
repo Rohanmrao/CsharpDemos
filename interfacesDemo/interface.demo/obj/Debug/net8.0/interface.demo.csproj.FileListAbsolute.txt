@@ -1,0 +1,14 @@
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Debug/net8.0/interface.demo
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Debug/net8.0/interface.demo.deps.json
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Debug/net8.0/interface.demo.runtimeconfig.json
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Debug/net8.0/interface.demo.dll
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/bin/Debug/net8.0/interface.demo.pdb
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.AssemblyInfoInputs.cache
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.AssemblyInfo.cs
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.csproj.CoreCompileInputs.cache
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.dll
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/refint/interface.demo.dll
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.pdb
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.genruntimeconfig.cache
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/ref/interface.demo.dll
