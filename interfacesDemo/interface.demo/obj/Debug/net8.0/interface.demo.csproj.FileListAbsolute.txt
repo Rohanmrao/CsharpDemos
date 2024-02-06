@@ -12,3 +12,4 @@
 /home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.pdb
 /home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.genruntimeconfig.cache
 /home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/ref/interface.demo.dll
+/home/rohan/csharp_examples/interfacesDemo/interface.demo/obj/Debug/net8.0/interface.demo.sourcelink.json
