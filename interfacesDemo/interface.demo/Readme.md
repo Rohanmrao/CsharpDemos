@@ -1,1 +1,1 @@
-## Example project to demonstarte the use of interfaces
+## Example project to demonstrate the use of interfaces
